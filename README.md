@@ -1,7 +1,7 @@
 # RealityStone_-wellington_bernardes-_Compass
 ## *Projeto*
 
-Esse repositório traz o Desafio da 4° Sprint da RealityStone - Automação de testes com Ruby Front-end, nesse projeto é apresentado uma calculadora de testes com 6 tipos de operações feita com 54 TDD's e além disso tabém sera apresetado 6 exescícios Koans. 
+Esse repositório traz o Desafio da 4° Sprint da RealityStone - Automação de testes com Ruby Front-end, nesse projeto é apresentado uma calculadora de testes com 5 tipos de operações feita com TDD's
 
 ##  *Ferramentas utilizadas nesse projeto:*
 
