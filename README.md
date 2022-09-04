@@ -1,7 +1,7 @@
 # RealityStone_-wellington_bernardes-_Compass
 ## *Projeto*
 
-Esse repositório traz o Desafio da 4° Sprint da RealityStone - Automação de testes com Ruby Front-end, nesse projeto é apresentado uma calculadora de testes com 5 tipos de operações feita com TDD's
+Esse repositório traz o Desafio da 4° Sprint da RealityStone - Automação de testes com Ruby Front-end, nesse projeto é apresentado uma calculadora de testes com 5 tipos de operações feita com TDD's, foram testados 39 exemplos. Adição, Subtração, Multiplicação, Raiza Quadrada.
 
 ##  *Ferramentas utilizadas nesse projeto:*
 
@@ -23,7 +23,7 @@ Para que você consiga realizar seus TDD's no VsCode é importa que antes sejam 
 * Gherkin Indent
 * EditorConfig
 * Ruby Solargraph
-* Material Icon Theme 
+ 
 
 
 
