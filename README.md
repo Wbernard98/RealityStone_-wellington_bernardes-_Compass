@@ -19,10 +19,11 @@ Esse repositório traz o Desafio da 4° Sprint da RealityStone - Automação de 
 Para que você consiga realizar seus TDD's no VsCode é importa que antes sejam instaldas algumas estenções para te ajudar:
 
 * Ruby
+* Ruby Solargraph
 * Snippets and Syntax Highlight for Gherkin (Cucumber)
 * Gherkin Indent
-* EditorConfig
-* Ruby Solargraph
+
+
  
 
 
@@ -37,4 +38,4 @@ GitHub - https://github.com/Wbernard98
 
 E-mail - Wellington.vargas.bernardes80@gmail.com
 
->[Compass](https://compass.uol/)
+
